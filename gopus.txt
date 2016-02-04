@@ -1,0 +1,7 @@
+#include <raji.h>
+#include<upstream.h>
+main call raji.sys ()
+{
+system.out.println("CPM 1.7 Testing");
+
+}
