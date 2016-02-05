@@ -1,0 +1,3 @@
+Echo "Hello Jenkins"
+Printf("Welcome to the Jenkins Configuration");
+Echo Exit... Bye Bye Babe .. 
