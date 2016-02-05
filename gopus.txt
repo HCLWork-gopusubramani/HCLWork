@@ -3,5 +3,7 @@
 main call raji.sys ()
 {
 system.out.println("CPM 1.7 Testing");
+print {"The Sample Training Worked Well" };
+print{"aLL WERE ON TIME"};
 
 }
